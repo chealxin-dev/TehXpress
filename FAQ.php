@@ -16,7 +16,7 @@ session_start();
 
         <div class="toggle-header" onclick="toggleSection(this)">
               <span class="arrow">></span>
-              <span>Are your milk tea lactose intolerant friendly?</span>
+              <span>Are your milk tea lactose intolerant friendly?Are your milk tea lactose intolerant friendly?Are your milk tea lactose intolerant friendly?</span>
             </div>
 
             <div class="hidden">
